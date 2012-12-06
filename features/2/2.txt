@@ -1,3 +1,0 @@
-SC - change 2.0
-SC - change 2.1
-SC - change 2.1 - added after merging this branch to master
